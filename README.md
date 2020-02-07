@@ -1,2 +1,1 @@
-My website for comp sci
-https://russianimport.github.io/
+My website for comp sci principles
